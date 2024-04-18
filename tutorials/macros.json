@@ -1,0 +1,11 @@
+{
+    "macros" : [
+        {
+            "name" : "charge",
+            "char_keys" : ["f1","f3"],
+            "keycodes" : [3, 4],         
+            "delay" : 0.1               
+        }
+    ]
+}
+    

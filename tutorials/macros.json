@@ -1,108 +1,36 @@
 {
     "macros": [
         {
+            "name": "aaaa",
+            "char_keys": [
+                "n",
+                "c",
+                "o",
+                "a",
+                "m",
+                "e"
+            ],
+            "keycodes": [
+                "n",
+                "c",
+                "o",
+                "a",
+                "m",
+                "e"
+            ],
+            "delay": 1.6
+        },
+        {
             "name": "close",
             "char_keys": [
                 "alt_l",
                 "f4"
             ],
             "keycodes": [
-                [
-                    "<164>",
-                    "<115>"
-                ]
+                "<164>",
+                "<115>"
             ],
             "delay": 0
-        },
-        {
-            "name": "wow",
-            "char_keys": [
-                "o",
-                "h",
-                "m",
-                "y",
-                "g",
-                "o",
-                "d"
-            ],
-            "keycodes": [
-                [
-                    "o",
-                    "h",
-                    "m",
-                    "y",
-                    "g",
-                    "o",
-                    "d"
-                ]
-            ],
-            "delay": 2.7
-        },
-        {
-            "name": "copy",
-            "char_keys": [
-                "ctrl_l",
-                "c"
-            ],
-            "keycodes": [
-                [
-                    "<162>",
-                    "c"
-                ]
-            ],
-            "delay": 0.5
-        },
-        {
-            "name": "yesss",
-            "char_keys": [
-                "l",
-                "o",
-                "l",
-                "n",
-                "n"
-            ],
-            "keycodes": [
-                [
-                    "l",
-                    "o",
-                    "l",
-                    "n",
-                    "n"
-                ]
-            ],
-            "delay": 2.1
-        },
-        {
-            "name": "done",
-            "char_keys": [
-                "enter",
-                "p"
-            ],
-            "keycodes": [
-                [
-                    "<13>",
-                    "p"
-                ]
-            ],
-            "delay": 0
-        },
-        {
-            "name": "finally",
-            "char_keys": [
-                "n",
-                "o",
-                "m",
-                "u"
-            ],
-            "keycodes": [
-                [
-                    "n",
-                    "o",
-                    "m",
-                    "u"
-                ]
-            ],
-            "delay": 0.7
         }
     ]
 }

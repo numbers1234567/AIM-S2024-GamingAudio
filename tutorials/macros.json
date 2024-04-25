@@ -1,0 +1,32 @@
+{
+    "macros": [
+        {
+            "name": "copy",
+            "char_keys": [
+                "ctrl_l",
+                "c"
+            ],
+            "keycodes": [
+                [
+                    "<162>",
+                    "c"
+                ]
+            ],
+            "delay": 1.5
+        },
+        {
+            "name": "paste",
+            "char_keys": [
+                "ctrl_l",
+                "v"
+            ],
+            "keycodes": [
+                [
+                    "<162>",
+                    "v"
+                ]
+            ],
+            "delay": 1.6
+        }
+    ]
+}

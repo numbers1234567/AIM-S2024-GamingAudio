@@ -1,0 +1,37 @@
+
+{
+    "macros": [
+        {
+            "name": "silence",
+            "char_keys": [
+                "n",
+                "c",
+                "o",
+                "a",
+                "m",
+                "e"
+            ],
+            "keycodes": [
+                "n",
+                "c",
+                "o",
+                "a",
+                "m",
+                "e"
+            ],
+            "delay": 1.6
+        },
+        {
+            "name": "close",
+            "char_keys": [
+                "alt_l",
+                "f4"
+            ],
+            "keycodes": [
+                "<164>",
+                "<115>"
+            ],
+            "delay": 0
+        }
+    ]
+}

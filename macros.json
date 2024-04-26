@@ -2,34 +2,36 @@
 {
     "macros": [
         {
-            "name": "silence",
+            "name": "snap",
             "char_keys": [
-                "n",
-                "c",
-                "o",
-                "a",
-                "m",
-                "e"
+                "l",
+                "e",
+                "f",
+                "t"
             ],
             "keycodes": [
-                "n",
-                "c",
-                "o",
-                "a",
-                "m",
-                "e"
+                "l",
+                "e",
+                "f",
+                "t"
             ],
             "delay": 1.6
         },
         {
-            "name": "close",
+            "name": "clap",
             "char_keys": [
-                "alt_l",
-                "f4"
+                "r",
+                "i",
+                "g",
+                "h",
+                "t"
             ],
             "keycodes": [
-                "<164>",
-                "<115>"
+                "r",
+                "i",
+                "g",
+                "h",
+                "t"
             ],
             "delay": 0
         }

@@ -31,6 +31,20 @@
                 "<115>"
             ],
             "delay": 0
+        },
+        {
+            "name": "reloading",
+            "char_keys": [
+                "r",
+                "e",
+                "l"
+            ],
+            "keycodes": [
+                "r",
+                "e",
+                "l"
+            ],
+            "delay": 0.3
         }
     ]
 }

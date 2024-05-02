@@ -1,39 +1,50 @@
-
 {
     "macros": [
         {
-            "name": "snap",
+            "name": "aaaa",
             "char_keys": [
-                "l",
-                "e",
-                "f",
-                "t"
+                "n",
+                "c",
+                "o",
+                "a",
+                "m",
+                "e"
             ],
             "keycodes": [
-                "l",
-                "e",
-                "f",
-                "t"
+                "n",
+                "c",
+                "o",
+                "a",
+                "m",
+                "e"
             ],
             "delay": 1.6
         },
         {
-            "name": "clap",
+            "name": "close",
+            "char_keys": [
+                "alt_l",
+                "f4"
+            ],
+            "keycodes": [
+                "<164>",
+                "<115>"
+            ],
+            "delay": 0
+        },
+        {
+            "name": "reloading",
             "char_keys": [
                 "r",
-                "i",
-                "g",
-                "h",
-                "t"
+                "e",
+                "l"
             ],
             "keycodes": [
                 "r",
-                "i",
-                "g",
-                "h",
-                "t"
+                "e",
+                "l"
             ],
-            "delay": 0
+            "delay": 0.3
         }
     ]
 }
